@@ -1,0 +1,98 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>elasticsearch - 标签 - </title>
+        <link>https://yzthewind.github.io/tags/elasticsearch/</link>
+        <description>elasticsearch - 标签 - </description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1126978661@qq.com (yz)</managingEditor>
+            <webMaster>1126978661@qq.com (yz)</webMaster><lastBuildDate>Wed, 01 Jul 2020 12:00:00 &#43;0800</lastBuildDate><atom:link href="https://yzthewind.github.io/tags/elasticsearch/" rel="self" type="application/rss+xml" /><item>
+    <title>3. 乐观并发控制</title>
+    <link>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/3_%E4%B9%90%E8%A7%82%E5%B9%B6%E5%8F%91%E6%8E%A7%E5%88%B6/</link>
+    <pubDate>Wed, 01 Jul 2020 12:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/3_%E4%B9%90%E8%A7%82%E5%B9%B6%E5%8F%91%E6%8E%A7%E5%88%B6/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/elasticsearch/%e4%b9%90%e8%a7%82%e5%b9%b6%e5%8f%91%e6%8e%a7%e5%88%b6.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 elasticsearch权威指南 二、]]></description>
+</item><item>
+    <title>2. 数据输入和输出</title>
+    <link>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/2_%E6%95%B0%E6%8D%AE%E8%BE%93%E5%85%A5%E5%92%8C%E8%BE%93%E5%87%BA/</link>
+    <pubDate>Wed, 01 Jul 2020 11:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/2_%E6%95%B0%E6%8D%AE%E8%BE%93%E5%85%A5%E5%92%8C%E8%BE%93%E5%87%BA/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/elasticsearch/%e6%95%b0%e6%8d%ae%e8%be%93%e5%85%a5%e5%92%8c%e8%be%93%e5%87%ba.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 elasticsearch权威指南 二、 概要 面向对象编程语言如此流行的原因之一是对象帮我们表示和处理现实世界具有潜在的复杂的数据结构的]]></description>
+</item><item>
+    <title>1. 集群内的原理</title>
+    <link>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/1_%E9%9B%86%E7%BE%A4%E5%86%85%E7%9A%84%E5%8E%9F%E7%90%86/</link>
+    <pubDate>Wed, 01 Jul 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/1_%E9%9B%86%E7%BE%A4%E5%86%85%E7%9A%84%E5%8E%9F%E7%90%86/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/elasticsearch/%e9%9b%86%e7%be%a4%e5%86%85%e7%9a%84%e5%8e%9f%e7%90%86.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 elasticsearch权威指南 节点类型 Integer大小 二、 概要 ElasticSearch 的主旨是随时可用和按需扩容 (1) 垂直扩容：通过购买性能更强大（ 垂直]]></description>
+</item><item>
+    <title>0. 权威指南</title>
+    <link>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/0_%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/</link>
+    <pubDate>Wed, 01 Jul 2020 09:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/0_%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/elasticsearch/%e6%9d%83%e5%a8%81%e6%8c%87%e5%8d%97.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 elasticsearch权威指南 二、基础入门 2.1 面向文档 在面向对象中，对象很少只是一个简单的键和值的列表，通常，对象有更加复杂的数据]]></description>
+</item><item>
+    <title>elasticsearch中的字段长度限制？</title>
+    <link>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/%E5%AD%97%E6%AE%B5%E9%95%BF%E5%BA%A6%E9%99%90%E5%88%B6/</link>
+    <pubDate>Tue, 16 Jun 2020 17:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/%E5%AD%97%E6%AE%B5%E9%95%BF%E5%BA%A6%E9%99%90%E5%88%B6/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/elasticsearch/%e5%ad%97%e6%ae%b5%e9%95%bf%e5%ba%a6%e9%99%90%e5%88%b6.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 elasticsearch权威指南 keyword官方文档 二、字符串类型字段长度限制 2.1 keyword 类型长度限制 2.2]]></description>
+</item><item>
+    <title>elasticsearch官方优化建议</title>
+    <link>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/elasticsearch%E5%AE%98%E6%96%B9%E4%BC%98%E5%8C%96%E5%BB%BA%E8%AE%AE/</link>
+    <pubDate>Mon, 15 Jun 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/elasticsearch%E5%AE%98%E6%96%B9%E4%BC%98%E5%8C%96%E5%BB%BA%E8%AE%AE/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/elasticsearch/elasticsearch%e5%ae%98%e6%96%b9%e4%bc%98%e5%8c%96%e5%bb%ba%e8%ae%ae.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 elasticsearch权威指南 elasticsearch-7.7官方文档 二、基本建议 2.1 不要返回大数据集 elasticsearch]]></description>
+</item><item>
+    <title>elasticsearch介绍</title>
+    <link>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/elasticsearch%E4%BB%8B%E7%BB%8D/</link>
+    <pubDate>Wed, 10 Jun 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/elasticsearch%E4%BB%8B%E7%BB%8D/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/elasticsearch/elasticsearch%e4%bb%8b%e7%bb%8d.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 elasticsearch权威指南]]></description>
+</item><item>
+    <title>elasticsearch分析数据</title>
+    <link>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/elasticsearch%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE/</link>
+    <pubDate>Wed, 10 Jun 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/elasticsearch%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/elasticsearch/elasticsearch%e5%88%86%e6%9e%90%e6%95%b0%e6%8d%ae.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 elasticsearch权威指南]]></description>
+</item><item>
+    <title>elasticsearch性能调优</title>
+    <link>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/elasticsearch%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/</link>
+    <pubDate>Wed, 10 Jun 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/elasticsearch%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/elasticsearch/elasticsearch%e6%80%a7%e8%83%bd%e8%b0%83%e4%bc%98.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 elasticsearch权威指南]]></description>
+</item><item>
+    <title>elasticsearch搜索</title>
+    <link>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/elasticsearch%E6%90%9C%E7%B4%A2/</link>
+    <pubDate>Wed, 10 Jun 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%90%9C%E7%B4%A2_elasticsearch/elasticsearch%E6%90%9C%E7%B4%A2/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/elasticsearch/elasticsearch%e6%90%9c%e7%b4%a2.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 elasticsearch权威指南]]></description>
+</item></channel>
+</rss>

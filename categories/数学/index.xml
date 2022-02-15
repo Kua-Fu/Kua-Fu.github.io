@@ -1,0 +1,98 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>数学 - 分类 - </title>
+        <link>https://yzthewind.github.io/categories/%E6%95%B0%E5%AD%A6/</link>
+        <description>数学 - 分类 - </description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1126978661@qq.com (yz)</managingEditor>
+            <webMaster>1126978661@qq.com (yz)</webMaster><lastBuildDate>Sat, 01 Aug 2020 11:00:00 &#43;0800</lastBuildDate><atom:link href="https://yzthewind.github.io/categories/%E6%95%B0%E5%AD%A6/" rel="self" type="application/rss+xml" /><item>
+    <title>算法图解</title>
+    <link>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3/</link>
+    <pubDate>Sat, 01 Aug 2020 11:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/algorithm/%e7%ae%97%e6%b3%95%e5%9b%be%e8%a7%a32.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 1. 算法图解 二、排序 2.1 选择排序 # -*- coding:utf-8 -*- def findSmallest(arr): smallest = arr[0] smallest_index = 0 for i in range(1, len(arr)): if arr[i] &lt; smallest: smallest = arr[i] smallest_index = i return smallest_index def selectionSort(arr): newArr = [] for i in range(len(arr)): smallest = findSmallest(arr) newArr.append(arr.pop(smallest)) return newArr if __name__ == &#39;__main__&#39;: arr = [10, 2,]]></description>
+</item><item>
+    <title>算法图解习题</title>
+    <link>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3%E4%B9%A0%E9%A2%98/</link>
+    <pubDate>Sat, 01 Aug 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3%E4%B9%A0%E9%A2%98/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/algorithm/%e7%ae%97%e6%b3%95%e5%9b%be%e8%a7%a3.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 1. 算法图解]]></description>
+</item><item>
+    <title>1. 数组</title>
+    <link>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E6%95%B0%E7%BB%84/</link>
+    <pubDate>Wed, 24 Jun 2020 09:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E6%95%B0%E7%BB%84/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/algorithm/%e6%95%b0%e7%bb%84.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 1. 数据结构与算法之美 二、如何实现随机访问？ 什么是数组，数组（array）是一种线性表数据结构，用一组连续的内存空间，来存储具有相同的]]></description>
+</item><item>
+    <title>AC自动机</title>
+    <link>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_ac%E8%87%AA%E5%8A%A8%E6%9C%BA/</link>
+    <pubDate>Wed, 10 Jun 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_ac%E8%87%AA%E5%8A%A8%E6%9C%BA/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/algorithm/AC%e8%87%aa%e5%8a%a8%e6%9c%ba.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 1. 数据结构与算法之美]]></description>
+</item><item>
+    <title>B&#43;树</title>
+    <link>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_b%E6%A0%91/</link>
+    <pubDate>Wed, 10 Jun 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_b%E6%A0%91/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/algorithm/B%e6%a0%91.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 1. 数据结构与算法之美]]></description>
+</item><item>
+    <title>二分查找</title>
+    <link>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</link>
+    <pubDate>Wed, 10 Jun 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/algorithm/%e4%ba%8c%e5%88%86%e6%9f%a5%e6%89%be.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 1. 数据结构与算法之美]]></description>
+</item><item>
+    <title>二叉树</title>
+    <link>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E4%BA%8C%E5%8F%89%E6%A0%91/</link>
+    <pubDate>Wed, 10 Jun 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E4%BA%8C%E5%8F%89%E6%A0%91/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/algorithm/%e4%ba%8c%e5%8f%89%e6%a0%91.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 1. 数据结构与算法之美]]></description>
+</item><item>
+    <title>位图</title>
+    <link>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E4%BD%8D%E5%9B%BE/</link>
+    <pubDate>Wed, 10 Jun 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E4%BD%8D%E5%9B%BE/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/algorithm/%e4%bd%8d%e5%9b%be.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 1. 数据结构与算法之美]]></description>
+</item><item>
+    <title>分治算法</title>
+    <link>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95/</link>
+    <pubDate>Wed, 10 Jun 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/algorithm/%e5%88%86%e6%b2%bb%e7%ae%97%e6%b3%95.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 1. 数据结构与算法之美]]></description>
+</item><item>
+    <title>动态规划</title>
+    <link>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</link>
+    <pubDate>Wed, 10 Jun 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6_%E7%AE%97%E6%B3%95_%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/algorithm/%e5%8a%a8%e6%80%81%e8%a7%84%e5%88%92.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 1. 数据结构与算法之美]]></description>
+</item></channel>
+</rss>

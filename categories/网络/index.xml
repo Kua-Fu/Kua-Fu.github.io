@@ -1,0 +1,98 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>网络 - 分类 - </title>
+        <link>https://yzthewind.github.io/categories/%E7%BD%91%E7%BB%9C/</link>
+        <description>网络 - 分类 - </description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1126978661@qq.com (yz)</managingEditor>
+            <webMaster>1126978661@qq.com (yz)</webMaster><lastBuildDate>Thu, 28 May 2020 10:00:00 &#43;0800</lastBuildDate><atom:link href="https://yzthewind.github.io/categories/%E7%BD%91%E7%BB%9C/" rel="self" type="application/rss+xml" /><item>
+    <title>28. http websocket</title>
+    <link>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/28_http_websocket/</link>
+    <pubDate>Thu, 28 May 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/28_http_websocket/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/http/http_websocket.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 透视HTTP协议]]></description>
+</item><item>
+    <title>27. http_cdn</title>
+    <link>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/27_http_cdn/</link>
+    <pubDate>Wed, 27 May 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/27_http_cdn/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/http/http_cdn.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 透视HTTP协议]]></description>
+</item><item>
+    <title>26. http waf</title>
+    <link>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/26_http_waf/</link>
+    <pubDate>Tue, 26 May 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/26_http_waf/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/http/http_waf.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 透视HTTP协议]]></description>
+</item><item>
+    <title>25. http openresty</title>
+    <link>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/25_http_openresty/</link>
+    <pubDate>Mon, 25 May 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/25_http_openresty/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/http/http_openresty.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 透视HTTP协议]]></description>
+</item><item>
+    <title>24. http_nginx</title>
+    <link>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/24_http_nginx/</link>
+    <pubDate>Sun, 24 May 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/24_http_nginx/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/http/http_nginx.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 透视HTTP协议]]></description>
+</item><item>
+    <title>23. https连接过程</title>
+    <link>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/23_http_https%E8%BF%9E%E6%8E%A5%E8%BF%87%E7%A8%8B/</link>
+    <pubDate>Sat, 23 May 2020 16:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/23_http_https%E8%BF%9E%E6%8E%A5%E8%BF%87%E7%A8%8B/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/http/https%e5%bb%ba%e7%ab%8b%e8%bf%9e%e6%8e%a5.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 透视HTTP协议 趣谈网络协议 二、 https建立连接 当你在浏览器地址栏里键入“https”开头的 URI，再按下回车，会发生什么呢？ 浏览]]></description>
+</item><item>
+    <title>22. http3.0 展望</title>
+    <link>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/22_http3%E5%B1%95%E6%9C%9B/</link>
+    <pubDate>Fri, 22 May 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/22_http3%E5%B1%95%E6%9C%9B/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/http/http3%e5%b1%95%e6%9c%9b.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 透视HTTP协议]]></description>
+</item><item>
+    <title>21. http2.0 内核剖析</title>
+    <link>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/21_http2%E5%86%85%E6%A0%B8%E5%89%96%E6%9E%90/</link>
+    <pubDate>Thu, 21 May 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/21_http2%E5%86%85%E6%A0%B8%E5%89%96%E6%9E%90/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/http/http2%e5%86%85%e6%a0%b8%e5%89%96%e6%9e%90.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 透视HTTP协议]]></description>
+</item><item>
+    <title>20. http2.0 特性</title>
+    <link>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/20_http2%E7%89%B9%E6%80%A7/</link>
+    <pubDate>Wed, 20 May 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/20_http2%E7%89%B9%E6%80%A7/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/http/http2%e7%89%b9%e6%80%a7.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 透视HTTP协议]]></description>
+</item><item>
+    <title>19. http的优化</title>
+    <link>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/19_http%E7%9A%84%E4%BC%98%E5%8C%96/</link>
+    <pubDate>Tue, 19 May 2020 10:00:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yzthewind.github.io/posts/%E7%BD%91%E7%BB%9C_http/19_http%E7%9A%84%E4%BC%98%E5%8C%96/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/http/https%e7%9a%84%e4%bc%98%e5%8c%96.jpg" referrerpolicy="no-referrer">
+            </div>一、 参考 透视HTTP协议]]></description>
+</item></channel>
+</rss>
